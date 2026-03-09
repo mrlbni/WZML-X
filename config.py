@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8489996025:AAGjdWXhkkBNV0gTXyw9Cy5LQj1qirnm5hA"
+OWNER_ID = 8565045255
+TELEGRAM_API = 22419004
+TELEGRAM_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
+DATABASE_URL = "mongodb+srv://mrnoobx:DAZCdTczVWyECi04@cluster0.sedgwxy.mongodb.net/?retryWrites=true&w=majority"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "Cdn-Obita"
+AUTHOR_URL = "https://t.me/Cdn_Obita"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -150,8 +150,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = ""
-UPSTREAM_BRANCH = "master"
+UPSTREAM_REPO = "https://github.com/mrlbni/WZML-X"
+UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
 # Leech
